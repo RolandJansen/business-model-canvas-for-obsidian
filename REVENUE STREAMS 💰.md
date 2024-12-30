@@ -1,3 +1,3 @@
-*Revenue Streams result from value propositions successfully offered to customers.*
+*Erfassung der Einnahmen, die durch die verschiedenen Kundensegmente bezogen werden können.*
 
 (5)
