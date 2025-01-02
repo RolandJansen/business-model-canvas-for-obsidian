@@ -1,24 +1,20 @@
 # Business Model Canvas template for Obsidian
 
-The business model canvas with its nine building blocks from [Strategyzer](https://www.strategyzer.com/library/the-business-model-canvas), ready to use with Obsidian.
+This is a fork of the [Business Model Canvas](https://github.com/YJPL/business-model-canvas-for-obsidian) for Obsidian by YJPL but with German help texts. If you are a non German speaker [the original](https://github.com/YJPL/business-model-canvas-for-obsidian) may fit your needs better. The rest of this README is in German language, too.
 
-## Requirements
+Das Business Model Canvas mit neun Segmenten von [Strategyzer](https://www.strategyzer.com/library/the-business-model-canvas), nachgebaut für Obsidian.
 
-You'll need the [Obsidian](https://obsidian.md) app installed.
+## Voraussetzungen
 
-After downloading the *business model canvas* folder from GitHub, pick the "open folder as vault" option in Obsidian.
+Um das Canvas verwenden zu können, braucht man die [Obsidian](https://obsidian.md) App.
 
-You can then start filling your business model canvas. The template has a bunch of Markdown files, one for each box or building block. 
-The .canvas file gathers all these text files together. You can input text on each .md file separately or type everything in the single .canvas document. 
+## Benutzung
+
+Wenn man das *business model canvas* von GitHub heruntergeladen hat, kann der gesamte Ordner als Vault in Obsidian geöffnet werden. Dazu klickt man (basierend auf Obsidian v1.7.7) unten auf den aktuellen Vault-Namen und wählt die Option "Manage vaults...". Im darauf folgenden Popup findet man die Option "Ordner als Vault öffnen".
+
+Die Vorlage besteht im Wesentlichen aus einer Reihe von Markdown Dateien für jeweils eins der neun Segmente. Die [.canvas](Obsidian%20Business%20Model%20Canvas.canvas) Datei fügt diese Dateien zusammen. Man kann die Segmente im Canvas ausfüllen oder die Markdown Dateien einzeln bearbeiten.
 
 <img width="1792" alt="Business Model Canvas template for Obsidian Screenshot 2023-12-14 at 12 26 32" src="https://github.com/YJPL/business-model-canvas-for-obsidian/assets/26725821/2f0c3529-caa8-4617-99d9-09ab41243cac">
 
-
-
-If you find this template useful and would like to support its development, you can sponsor me on Github, or buy me a coffee.
-
-<a href="https://www.buymeacoffee.com/alternatyves/" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T013TB72)
-
-If you are looking for the lean business model, you can find the [lean canvas template for Obsidian here](https://github.com/YJPL/lean-canvas-for-obsidian).
+Das Business Model Canvas ist gut geeignet zur Vorbereitung eines Businessplans oder zur Verifizierung einer bestehenden Geschäftsidee.
+Bei der Planung eines Startups könnte das [Lean Canvas](https://gruenderplattform.de/unternehmen-gruenden/lean-canvas) evtl. besser geeignet sein. Der/die original Autor/-in stellt dafür ebenfalls eine [Obsidian Vorlage](https://github.com/YJPL/lean-canvas-for-obsidian) bereit.
