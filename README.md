@@ -1,9 +1,9 @@
 # Business Model Canvas Vorlage für Obsidian
 
-Das Business Model Canvas mit neun Segmenten von [Strategyzer](https://www.strategyzer.com/library/the-business-model-canvas), nachgebaut für Obsidian.
+Das Business Model Canvas von [Strategyzer](https://www.strategyzer.com/library/the-business-model-canvas) mit neun Segmenten, nachgebaut für Obsidian.
 
 > [!NOTE]
-> This is a fork of the [Business Model Canvas](https://github.com/YJPL/business-model-canvas-for-obsidian) for Obsidian by YJPL but with German help texts. If you are a non German speaker [the original](https://github.com/YJPL/business-model-canvas-for-obsidian) may fit your needs better.
+> This is a fork of the [Business Model Canvas for Obsidian by YJPL](https://github.com/YJPL/business-model-canvas-for-obsidian) with German help texts. If you are a non-german speaker the original template may fit your needs better.
 
 ## Voraussetzungen
 
@@ -11,7 +11,7 @@ Um das Canvas verwenden zu können, braucht man die [Obsidian](https://obsidian.
 
 ## Benutzung
 
-Wenn man dieses Repository von GitHub heruntergeladen hat, kann der gesamte Ordner als Vault in Obsidian geöffnet werden. Dazu klickt man (basierend auf Obsidian v1.7.7) unten auf den aktuellen Vault-Namen und wählt die Option "Manage vaults...". Im darauf folgenden Popup findet man die Option "Ordner als Vault öffnen".
+Wenn man dieses Repository von GitHub heruntergeladen hat, kann der gesamte Ordner als Vault in Obsidian geöffnet werden. Dazu klickt man (basierend auf Obsidian v1.7) unten auf den aktuellen Vault-Namen und wählt die Option "Manage vaults...". Im darauf folgenden Popup findet man die Option "Ordner als Vault öffnen".
 
 Die Vorlage besteht im Wesentlichen aus einer Reihe von Markdown Dateien für jeweils eins der neun Segmente. Die [.canvas](Obsidian%20Business%20Model%20Canvas.canvas) Datei fügt diese Dateien zusammen. Man kann den Canvas im Ganzen ausfüllen oder die Markdown Dateien einzeln bearbeiten.
 
