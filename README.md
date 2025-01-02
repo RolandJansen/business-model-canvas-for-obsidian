@@ -2,8 +2,8 @@
 
 Das Business Model Canvas mit neun Segmenten von [Strategyzer](https://www.strategyzer.com/library/the-business-model-canvas), nachgebaut für Obsidian.
 
-[!IMPORTANT]
-This is a fork of the [Business Model Canvas](https://github.com/YJPL/business-model-canvas-for-obsidian) for Obsidian by YJPL but with German help texts. If you are a non German speaker [the original](https://github.com/YJPL/business-model-canvas-for-obsidian) may fit your needs better. The rest of this README is in German language, too.
+> [!NOTE]
+> This is a fork of the [Business Model Canvas](https://github.com/YJPL business-model-canvas-for-obsidian) for Obsidian by YJPL but with German help texts. If you are a non German speaker [the original](https://github.com/YJPL business-model-canvas-for-obsidian) may fit your needs better.
 
 ## Voraussetzungen
 
