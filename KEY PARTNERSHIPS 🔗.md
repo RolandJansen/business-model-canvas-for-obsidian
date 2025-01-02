@@ -1,4 +1,4 @@
-*Some activities are outsources and some resources are acquired outside the entreprise.*
+*Partnerschaften, die für die Geschäftsidee unverzichtbar sind (z. B. Zulieferer oder Vertriebspartner).*
 
 (8)
 
