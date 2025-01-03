@@ -15,7 +15,7 @@ Wenn man dieses Repository von GitHub heruntergeladen hat, kann der gesamte Ordn
 
 Die Vorlage besteht im Wesentlichen aus einer Reihe von Markdown Dateien für jeweils eins der neun Segmente. Die [.canvas](Obsidian%20Business%20Model%20Canvas.canvas) Datei fügt diese Dateien zusammen. Man kann den Canvas im Ganzen ausfüllen oder die Markdown Dateien einzeln bearbeiten.
 
-<img width="1792" alt="Business Model Canvas template for Obsidian Screenshot 2023-12-14 at 12 26 32" src="https://github.com/YJPL/business-model-canvas-for-obsidian/assets/26725821/2f0c3529-caa8-4617-99d9-09ab41243cac">
+<img width="1792" alt="Business Model Canvas Vorlage für Obsidian Screenshot" src="business-model-canvas-for-obsidian_de.png">
 
 Das Business Model Canvas ist gut geeignet zur Vorbereitung eines Businessplans oder zur Verifizierung einer bestehenden Geschäftsidee.
 Bei der Planung eines Startups könnte das [Lean Canvas](https://gruenderplattform.de/unternehmen-gruenden/lean-canvas) evtl. besser geeignet sein. Der/die original Autor/-in stellt auch dafür eine [Obsidian Vorlage](https://github.com/YJPL/lean-canvas-for-obsidian) bereit.
